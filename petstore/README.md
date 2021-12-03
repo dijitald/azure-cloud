@@ -75,6 +75,22 @@ Prerequisites and environment setup (Optionaly you can build/deploy locally)
 
    Configure B2C for PetStoreApp Identity Management
 
+## [11 - DataOps: Configure Azure DevOps Pipeline for CI/CD into Azure Databricks](11-configure-ado-pipeline-for-ci-cd-into-databricks/README.md)
+
+   Configure Azure DevOps Pipeline for CI/CD into Azure Databricks
+
+## [12 - Configure Azure DevOps pipelines to execute automated regression tests](12-configure-petstore-automation-testing)
+
+   Configure Azure DevOps pipelines to execute automated regression tests
+   
+## [13 - Build and Deploy Azure Functions](13-build-deploy-azure-functions)
+
+   Build and Deploy Azure Functions
+
+## [14 - Build a Canvas Power App that uses a Custom Connector to Pull Data](14-build-power-apps)
+
+   Build a Canvas Power App that uses a Custom Connector to Pull Data
+
 ---
 
 ## Legal Notices
